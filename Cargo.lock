@@ -85,6 +85,10 @@ name = "day6"
 version = "0.1.0"
 
 [[package]]
+name = "day7"
+version = "0.1.0"
+
+[[package]]
 name = "daymaker"
 version = "0.1.0"
 dependencies = [
